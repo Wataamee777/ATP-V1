@@ -54,9 +54,10 @@ wss.on("connection", (ws, req) => {
   });
 
   stream.on("end", () => {
-    console.log(`🎶 Stream finished for ${ip}`);
-    ws.close();
+    streamFile(); // 終わったら再度再生
   });
+};
+streamFile();
 
   ws.on("close", () => {
     console.log(`🚪 Disconnected: ${ip}`);
