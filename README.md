@@ -86,6 +86,6 @@ node atp-server-live.js
 
 ---
 
-Created by [Wataamee777](https://wataamee777.f5.si)
+Created by [わたあめえ](https://wataamee777.f5.si)
 
 ---
