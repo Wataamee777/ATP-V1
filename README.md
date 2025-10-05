@@ -1,3 +1,4 @@
+![public status](https://img.shields.io/badge/Public%20status-public-green.svg)
 #  ATP - Audio Transmission Protocol v1
 
 ATP (Audio Transmission Protocol) は、軽量・低遅延で音声を配信できる独自プロトコルです。  
